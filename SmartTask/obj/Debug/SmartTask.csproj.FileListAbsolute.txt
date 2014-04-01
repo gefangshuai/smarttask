@@ -9,3 +9,4 @@ f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask
 f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.pdb
 F:\Documents\Visual Studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.Form2.resources
 F:\Documents\Visual Studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.AboutBox1.resources
+F:\Documents\Visual Studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.Form3.resources

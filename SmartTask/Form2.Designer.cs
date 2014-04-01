@@ -162,7 +162,7 @@
             this.MinimizeBox = false;
             this.Name = "Form2";
             this.ShowInTaskbar = false;
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "选项 - 智能工作助手";
             this.Load += new System.EventHandler(this.Form2_Load);
             this.tabPage1.ResumeLayout(false);
