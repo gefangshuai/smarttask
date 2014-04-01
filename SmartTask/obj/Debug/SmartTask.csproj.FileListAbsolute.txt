@@ -1,1 +1,11 @@
 f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\bin\Debug\SmartTask.exe.config
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\bin\Debug\SmartTask.exe
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\bin\Debug\SmartTask.pdb
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.Form1.resources
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.Properties.Resources.resources
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.csproj.GenerateResource.Cache
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.exe
+f:\documents\visual studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.pdb
+F:\Documents\Visual Studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.Form2.resources
+F:\Documents\Visual Studio 2013\Projects\SmartTask\SmartTask\obj\Debug\SmartTask.AboutBox1.resources
