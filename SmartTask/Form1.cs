@@ -133,8 +133,11 @@ namespace SmartTask
         {
             if (e.CloseReason == CloseReason.UserClosing)
             {
-                e.Cancel = true;
-                hideApp();
+                if (timer1.Enabled)
+                {
+                    e.Cancel = true;
+                    hideApp();
+                }
             }
         }
 
