@@ -112,10 +112,13 @@ namespace SmartTask
 
         private void 关于ToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            showAbout();
+        }
+
+        private void showAbout(){
             AboutBox1 aboutBox1 = new AboutBox1();
             aboutBox1.ShowDialog();
         }
-
         private void 退出ToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -141,6 +144,11 @@ namespace SmartTask
             notifyIcon1.BalloonTipTitle = "温馨提示";
             notifyIcon1.BalloonTipText = "程序正在监控您的健康，请注意遵守命令！";
             notifyIcon1.ShowBalloonTip(2000);
+        }
+
+        private void 关于ToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            showAbout();
         }
     }
 }
